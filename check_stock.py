@@ -20,7 +20,7 @@ PRODUCT_URL = (
 TARGETS = {"AIR 8 / M", "AIR 8 / L"}
 
 # Canal de ntfy: elige un nombre unico y suscribete en la app ntfy.
-NTFY_TOPIC = "kailas-air8-adria-XXXX"
+NTFY_TOPIC = "kailas-air8-adria"
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (stock-checker)"}
 
